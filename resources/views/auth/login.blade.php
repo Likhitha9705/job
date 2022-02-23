@@ -31,7 +31,7 @@
                     </div>
 
                     <div class="mb-4">
-                        <label for="password" class="sr-only">Password</label>
+                        <label for="passwords" class="sr-only">Password</label>
                         <input type="password" name="password" id="password" placeholder="Enter password"
                         class="bg-gray-100 border-2 w-full p-2 rounded-lg @error('password') border-red-500 @enderror" value="">
 
